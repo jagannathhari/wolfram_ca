@@ -1,8 +1,7 @@
-# Conway's Game of Life
+# Wolfram Cellular Automation
 
 ## Introduction
-
-Conway's Game of Life is a classic cellular automaton devised by mathematician John Conway in 1970. It is a zero-player game, meaning that its evolution is determined by its initial state, requiring no further input. Despite its simple rules, the game can exhibit complex and unpredictable behavior.
+Wolfram Cellular Automata, pioneered by Stephen Wolfram, are a class of simple computational models that consist of a grid of cells, each in one of a finite number of states. These cells evolve through discrete time steps according to a set of rules based on the states of neighboring cells. Despite their simplicity, Wolfram Cellular Automata can exhibit remarkably complex and interesting behavior.
 
 ## Build Instructions
 
@@ -17,7 +16,7 @@ To build Conway's Game of Life, follow these steps:
 2. Navigate to the project directory:
 
     ```
-    cd conway_gol
+    cd wolfram_ca
     ```
 
 3. Initialize and update submodules:
@@ -35,6 +34,5 @@ To build Conway's Game of Life, follow these steps:
 
 3. Run the executable 
     ```
-    ./build/Conwey_Gol [rle file path]
+    ./build/wolfram_ca [rle file path]
     ```
-# Wolfram Cellular Automation

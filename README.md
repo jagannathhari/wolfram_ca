@@ -5,7 +5,7 @@ Wolfram Cellular Automata, pioneered by Stephen Wolfram, are a class of simple c
 
 ## Build Instructions
 
-To build Conway's Game of Life, follow these steps:
+To build  Wolfram Cellular Automation, follow these steps:
 
 1. Clone the repository:
 

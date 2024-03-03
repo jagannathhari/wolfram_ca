@@ -4,7 +4,7 @@ PROJECT_DIR=`pwd`
 SOURCE_FILE="./src/main.c"
 
 BUILD_DIR="./build"
-EXECUTABLE="$BUILD_DIR/Wolfram_ca"
+EXECUTABLE="$BUILD_DIR/wolfram_ca"
 
 RAYLIB_LIB_PATH="./raylib/src/libraylib.a"
 # Path to raylib includes

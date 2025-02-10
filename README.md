@@ -10,7 +10,7 @@ To build  Wolfram Cellular Automation, follow these steps:
 1. Clone the repository:
 
     ```
-    git clone https://github.com/jagannathhari/conway_gol
+    git clone https://github.com/jagannathhari/wolfram_ca.git
     ```
 
 2. Navigate to the project directory:
@@ -34,5 +34,5 @@ To build  Wolfram Cellular Automation, follow these steps:
 
 3. Run the executable 
     ```
-    ./build/wolfram_ca [rle file path]
+    ./build/wolfram_ca
     ```
